@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  GarmentList
+
+  Created by Anton Rybaiev on 13.07.2024.
+  
+*/
+
+
+"GarmentListScreenTitle" = "List";
+"AlphabeticalSortingTitle" = "Alpha";
+"CreationTimeSortingTitle" = "Creation Time";
+"AddItemScreenTitle" = "ADD";
+"SaveButtonTitle" = "Save";
+"ItemNameInputTitle" = "Garment Name";
